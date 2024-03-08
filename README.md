@@ -147,7 +147,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Ng Chee How** - *Initial work* - [YourUsername](https://github.com/zhihow2002)
+- **Ng Chee How** - *Initial work* - [zhihow2002](https://github.com/zhihow2002)
 
 See also the list of [contributors](https://github.com/zhihow2002/CDN/contributors) who participated in this project.
 

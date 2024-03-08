@@ -1,0 +1,78 @@
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Additional folders
+bin/
+obj/
+# General CodeKit files to ignore
+config.codekit
+config.codekit3
+/min
+CDN.API/obj/Debug/net8.0/CDN.API.AssemblyInfo.cs
+CDN.API/obj/Debug/net8.0/CDN.API.AssemblyInfoInputs.cache
+CDN.Application/obj/Debug/net8.0/CDN.Application.AssemblyInfo.cs
+CDN.Application/obj/Debug/net8.0/CDN.Application.AssemblyInfoInputs.cache
+CDN.Domain/obj/Debug/net8.0/CDN.Domain.AssemblyInfo.cs
+CDN.Domain/obj/Debug/net8.0/CDN.Domain.AssemblyInfoInputs.cache
+CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.AssemblyInfo.cs
+CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.AssemblyInfoInputs.cache
