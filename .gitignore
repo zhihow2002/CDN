@@ -147,3 +147,11 @@ CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.dll
 CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.pdb
 CDN.Infrastructure/obj/Debug/net8.0/ref/CDN.Infrastructure.dll
 CDN.Infrastructure/obj/Debug/net8.0/refint/CDN.Infrastructure.dll
+CDN.Application/obj/Debug/net8.0/CDN.Application.AssemblyInfo.cs
+CDN.Application/obj/Debug/net8.0/CDN.Application.AssemblyInfoInputs.cache
+CDN.Application/obj/Debug/net8.0/CDN.Application.csproj.AssemblyReference.cache
+CDN.Domain/obj/Debug/net8.0/CDN.Domain.AssemblyInfo.cs
+CDN.Domain/obj/Debug/net8.0/CDN.Domain.AssemblyInfoInputs.cache
+CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.AssemblyInfo.cs
+CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.AssemblyInfoInputs.cache
+CDN.Infrastructure/obj/Debug/net8.0/CDN.Infrastructure.csproj.AssemblyReference.cache
